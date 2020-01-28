@@ -11,6 +11,7 @@ The origin of data is http://archive.ics.uci.edu/ml/datasets/Human+Activity+Reco
 * Average of each variable for each activity and each subject was calcutated
 
 # List of Measurements(features)
+|---|---                              |---                            |--- |
  |[1] |"tBodyAcc-mean()-X"           |"tBodyAcc-mean()-Y"           |"tBodyAcc-mean()-Z"    |      
  |[4] |"tBodyAcc-std()-X"            |"tBodyAcc-std()-Y"            |"tBodyAcc-std()-Z"     |     
  |[7] |"tGravityAcc-mean()-X"        |"tGravityAcc-mean()-Y"        |"tGravityAcc-mean()-Z" |    
