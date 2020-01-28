@@ -12,7 +12,7 @@ The origin of data is http://archive.ics.uci.edu/ml/datasets/Human+Activity+Reco
 
 # List of Measurements(features)
 
-1|2     |3
+|     |
 ---|---      |--
 tBodyAcc-mean()-X        |tBodyAcc-mean()-Y        |tBodyAcc-mean()-Z          
 tBodyAcc-std()-X         |tBodyAcc-std()-Y         |tBodyAcc-std()-Z           
