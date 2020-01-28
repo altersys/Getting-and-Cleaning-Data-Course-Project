@@ -1,5 +1,5 @@
 # Getting-and-Cleaning-Data-Course-Project
-Getting and Cleaning Data Course Project for coursera datascience specialization
+Getting and Cleaning Data Course Project for Coursera Datascience Specialization
 
 # Project Goals
 * create run_analysis.R that meets criteria below
